@@ -1,0 +1,57 @@
+*{
+    background-color: rgb(236, 141, 16);
+   max-height: 100% ;
+}
+.counter{
+    display: flex;
+    justify-content: center;
+    margin-top: 20%;
+    flex-direction: column;
+    align-items: center;
+    background-color: #080a0a65;
+    border-radius: 50%; 
+}
+.counter h1{
+border-radius: 10px;
+width: 8%;
+text-align: center;
+background-color: white;
+font-family: 'Times New Roman', Times, serif;
+font-size: 20px;
+font-weight: 600;
+color:#487575 ;
+}
+.counter h2{
+    border-radius:10px ;
+    width: 10%;
+    text-align: center;
+    background-color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-weight: 600;
+    color:#487575 ;
+}
+.startStyle {
+    width: 15%;
+    margin-bottom: 20px;
+    height: 35px;
+    border-radius: 10px;
+    background-color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-weight: 600;
+    color:#487575 ;
+
+}
+.resetStyle{
+    width: 15%;
+    margin-bottom: 20px;
+    height: 35px;
+    border-radius: 10px;
+    background-color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-weight: 600;
+    color:#487575 ;
+
+}
